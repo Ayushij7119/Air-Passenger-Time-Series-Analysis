@@ -1,6 +1,6 @@
-# Air-Passengers-Time-Series-Forcasting-
+# Air-Passengers-Time-Series-Analysis-
 Object:
-This Project is developed to forcast the changes in Number of Air Passengers travel per day and what may be the estimated 
+This Project is developed to Analysis the changes in Number of Air Passengers travel per day and what may be the estimated 
 rise or increase in thier numbers.
 
 
